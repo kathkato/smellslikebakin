@@ -1,4 +1,4 @@
 smellslikebakin
 ===============
 
-Cupcake company website project created using HTML and CSS.
+Cupcake company website project created using HTML5, PHP, Javascript, and CSS with mobile compatibility.
