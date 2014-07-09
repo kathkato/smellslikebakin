@@ -125,17 +125,14 @@ a:active {
  */
 
 h1 {
-    font-size: 1.875em;
     margin: 1em 0;
 }
 
 h2 {
-    font-size: 1.5em;
     margin: 0;
 }
 
 h3 {
-    font-size: 1em;
     margin: 1em 0 0 0;
 }
 
@@ -487,6 +484,14 @@ input::-moz-focus-inner {
 textarea {
     overflow: auto; /* 1 */
     vertical-align: top; /* 2 */
+}
+
+label {
+	width: 130px;
+    margin-top: 3px;
+    display: inline-block;
+    float: left;
+    padding: 3px;
 }
 
 
